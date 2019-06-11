@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: #8C5EB9;
+    color: #fff;
+}
+.head{
+    text-align: center;
+
+}
+
+input{ 
+    width: 500px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    color: #fff;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
